@@ -5,12 +5,12 @@ Chat App designed by me in Flutter and Firebase( a prototype ) . It is named aft
 ## Snapshots of the App
 
 ### Login Page
-![login_page](screenshots/login_page.jpeg)
+![login_page](./assets/login_page.jpeg)
 
 ### Signup Page
-![signup_page](screenshots/signup_page.jpeg)
+![signup_page](./assets/signup_page.jpeg)
 
 ### On Virtual Device.
-![image1](screenshots/image1.png)
+![image1](./assets/image1.png)
 
-![image2](screenshots/image2.png)
+![image2](./assets/image2.png)
