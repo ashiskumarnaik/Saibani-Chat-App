@@ -4,5 +4,8 @@ Chat App designed by me in Flutter and Firebase( a prototype ) . It is named aft
 
 ## Snapshots of the App
 
-![login_page](screenshots/login_page.jpg)
-![login_page](screenshots/sign_up.jpg)
+### Login Page
+![login_page](screenshots/login_page.jpeg)
+
+### Signup Page
+![signup_page](screenshots/signup_page.jpeg)
